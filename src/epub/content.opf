@@ -44,34 +44,37 @@
 		<meta property="term" refines="#subject-4">sh2009117601</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008114509</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A young woman, Lucy Snowe, travels from England to the fictional town of Villette where she makes new connections and encounters people from her past.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description"> <![CDATA[ <p>Charlotte Brontë’s last novel, <i>Villette</i> is thought to be most closely modelled on her own experiences teaching in a <i>pensionnat</i> in Brussels, the place on which the fictional towon of Villette is based. In the novel, published in 1852, we follow the protagonist Lucy Snowe from the time she is fourteen and lives with her godmother in rural England, through her family tragedies and departure for the town of Villette where she finds work at a French boarding school. People from her past reappear in dramatic ways, and she makes new connections and learns the stories and secrets of the people around her. Through it all,the reader is made privy to Lucy’s thoughts, feelings and journey of self-discovery, which is what makes <i>Villette</i> a masterpiece.</p> ]]></meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/9182</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+    <dc:source>https://archive.org/details/villettenovel00bronuoft</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Villette</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Villette_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charlotte-bronte_villette</meta>
 		<dc:creator id="author">Charlotte Brontë</dc:creator>
-		<meta property="file-as" refines="#author">AUTHOR_SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHOR_FULL_NAME</meta>
+		<meta property="file-as" refines="#author">Brontë, Charlotte</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">AUTHOR_NACOAF_URL</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79054114</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Gustave Courbet</dc:contributor>
+		<meta property="file-as" refines="#artist">Courbet, Gustave</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Gustave_Courbet</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80057228</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Delphine Lettau</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Lettau, Delphine</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Charles Franks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Franks, Charles</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Srijoni Sen</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Sen, Srijoni</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
