@@ -48,7 +48,7 @@
 		<dc:description id="description">A young woman, Lucy Snowe, travels from England to the fictional town of Villette where she makes new connections and encounters people from her past.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Charlotte Brontë’s last novel, &lt;i&gt;Villette&lt;/i&gt; is thought to be most closely modelled on her own experiences teaching in a &lt;i&gt;pensionnat&lt;/i&gt; in Brussels, the place on which the fictional towon of Villette is based. In the novel, first published in 1853, we follow the protagonist Lucy Snowe from the time she is fourteen and lives with her godmother in rural England, through her family tragedies and departure for the town of Villette where she finds work at a French boarding school. People from her past reappear in dramatic ways, and she makes new connections and learns the stories and secrets of the people around her. Through it all,the reader is made privy to Lucy’s thoughts, feelings and journey of self-discovery, which is what makes &lt;i&gt;Villette&lt;/i&gt; a masterpiece.&lt;/p&gt;
-			</meta>
+		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/9182</dc:source>
 		<dc:source>https://archive.org/details/villettenovel00bronuoft</dc:source>
